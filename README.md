@@ -37,7 +37,7 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernard-Namangala&hide=php)](https://github.com/anuragh/github-readme-stats)
 ---
-[![Bernard's github stats](https://github-readme-stats.vercel.app/api?username=Bernard-Namangala&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Bernard's github stats](https://github-readme-stats.vercel.app/api?username=Bernard-Namangala&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
