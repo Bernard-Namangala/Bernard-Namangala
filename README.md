@@ -34,10 +34,12 @@
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website]
 <br />
 <br />
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernard-Namangala&hide=php)](https://github.com/anuragh/github-readme-stats)
+---
+[![Bernard's github stats](https://github-readme-stats.vercel.app/api?username=Bernard-Namangala&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://bernardnamangala.pythonanywhere.com
 [twitter]: https://twitter.com/BNamangala
