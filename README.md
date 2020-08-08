@@ -35,14 +35,12 @@
 <br />
 <br />
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bernard-Namangala&count_private=true&show_icons=true&theme=tokyonight&hide=stars" alt="Bernard's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+</span>
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernard-Namangala&hide=php&layout=compact&theme=tokyonight" />
-</a>
-
+</span>
 
 
 
