@@ -1,4 +1,4 @@
-## Bernard Namangala | Software Engineer & Fiverr Freelancer (Level 2)
+## Bernard Namangala | Software Engineer
 
 **Building web applications and exploring the future of Web3.**
 
