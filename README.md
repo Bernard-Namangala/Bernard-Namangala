@@ -16,8 +16,8 @@ The potential of Web3 development has sparked my curiosity. I'm actively expandi
 
 * **Backend:** NestJS, Django, NestJS, Express, SQL, PostgreSQL, MongoDB
 * **DevOps:** Docker
-* **Cloud:** AWS
-* **Frontend:** React, HTML5, CSS3, Bootstrap
+* **Cloud:** AWS, GCP
+* **Frontend:** React, HTML5, CSS3, Bootstrap, Tailwind
 * **Version Control:** Git
 * **Development Tools:** Visual Studio Code, Terminal
 
