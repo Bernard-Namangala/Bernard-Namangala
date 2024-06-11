@@ -30,7 +30,4 @@ I believe in lifelong learning and constantly seek opportunities to broaden my s
 
 * **LinkedIn:** [https://www.linkedin.com/in/bernard-namangala-665a231a5/](https://www.linkedin.com/in/bernard-namangala-665a231a5/)
 
-**Badges:**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bernard-Namangala&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernard-Namangala&hide=php&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
